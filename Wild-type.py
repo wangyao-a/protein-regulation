@@ -6954,18 +6954,6 @@ for a in range(0,20000000):
         dataframe = pd.DataFrame({'atime':time1,'lover':MTX1,'lover1':MTzn9,'lpole':MTX2,'rmtk':MTzn3,'rpk2':MTi1,'rdk1':MTk1,'ratepk':MTzn1,'rateid':MTzn2,'rateif':MTzn17,'n11':MTzn6,'n22':MTzn18,'n1':MTzn15,'n2':MTzn16,'xkinc':MTzn13,'xkin1c':MTzn14,'xforce':MTzn11,'xforce1':MTzn12,'xforce2':MTzn7,'xforce3':MTzn8,'lens1':MTzn20,'lens2':MTzn21,'lens3':MTzn10,'np':MTzn19,'overlap':MTzn24,'lenl2':MTzn22,'lenl3':MTzn23})
         dataframe.to_csv('./2e'+str(koffn)+str(Foffn)+str(FPE)+str(pi1)+'alp'+str(alp)+str(Fxing)+str(nant)+str(MTnumber)+'B'+str(B)+str(Fp0)+str(Kp1)+str(Kp2)+str(Kp3)+str(vd)+str(kon)+str(vp1)+'ss11.csv',index=False,sep=',')
 
-       
-      
-
-
-# In[ ]:
-
-
-3 10-4 0.03
-
-
-# In[ ]:
-
 
 
 
